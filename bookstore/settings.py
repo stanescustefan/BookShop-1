@@ -26,7 +26,9 @@ SECRET_KEY = '#*k)9t8vzu)4j2hr=l@)emxs^ev%6z5)ri$q4g4%nb^n+pr37y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+  'bookshop-f7hxbzfhg3gvfpgz.westeurope-01.azurewebsites.net',
+]
 
 
 # Application definition
